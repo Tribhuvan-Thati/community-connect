@@ -1,0 +1,1499 @@
+[
+    {
+        "complaint_id": "c48b1b99",
+        "flat_number": "A - 303",
+        "name": null,
+        "phone": null,
+        "portfolio": "water",
+        "description": "Tap Leakage",
+        "date": "2026-02-08 16:20:48"
+    },
+    {
+        "complaint_id": "b439dcff",
+        "flat_number": "A - 303",
+        "name": null,
+        "phone": null,
+        "portfolio": "water",
+        "description": "Tap Leakage",
+        "date": "2026-02-08 16:30:05"
+    },
+    {
+        "complaint_id": "9d8df14f",
+        "flat_number": "A-303",
+        "name": null,
+        "phone": null,
+        "portfolio": "water",
+        "description": "Tap leakage",
+        "date": "2026-02-08 19:10:02"
+    },
+    {
+        "complaint_id": "750c408c",
+        "flat_number": "A-303",
+        "name": null,
+        "phone": null,
+        "portfolio": "electricity",
+        "description": "power fluctuation ",
+        "date": "2026-02-08 19:11:42"
+    },
+    {
+        "complaint_id": "cbd70169",
+        "flat_number": "A-304",
+        "name": null,
+        "phone": null,
+        "portfolio": "housekeeping",
+        "description": "The floor has not been cleaned since last 3 days",
+        "date": "2026-02-08 19:13:22"
+    },
+    {
+        "complaint_id": "d5c9d8e3",
+        "flat_number": "A-303",
+        "name": null,
+        "phone": null,
+        "portfolio": "water",
+        "description": "tap leakage",
+        "date": "2026-02-08 19:15:19"
+    },
+    {
+        "complaint_id": "965b2395",
+        "flat_number": "i_206",
+        "name": null,
+        "phone": null,
+        "portfolio": "security",
+        "description": "Someone has done wrong parking in my slot\nkindly inoform the concern person to remove it immediately",
+        "date": "2026-02-08 19:16:49"
+    },
+    {
+        "complaint_id": "9adf3c5c",
+        "flat_number": null,
+        "name": null,
+        "phone": null,
+        "portfolio": null,
+        "description": null,
+        "image": null,
+        "date": "2026-02-08 19:29:38"
+    },
+    {
+        "complaint_id": "d0091034",
+        "flat_number": null,
+        "name": null,
+        "phone": null,
+        "portfolio": null,
+        "description": null,
+        "image": null,
+        "date": "2026-02-08 19:29:42"
+    },
+    {
+        "complaint_id": "5e33f33c",
+        "flat_number": null,
+        "name": null,
+        "phone": null,
+        "portfolio": null,
+        "description": null,
+        "image": null,
+        "date": "2026-02-08 19:31:08"
+    },
+    {
+        "complaint_id": "b79280e5",
+        "flat_number": "A-303",
+        "name": null,
+        "phone": null,
+        "portfolio": "water",
+        "description": "tyrhndkfhfndcdkdk",
+        "date": "2026-02-08 19:47:26"
+    },
+    {
+        "complaint_id": "7ca3c8f0",
+        "flat_number": "A-303",
+        "name": null,
+        "phone": null,
+        "portfolio": "water",
+        "description": "Balcony Tap Leakage",
+        "date": "2026-02-08 19:48:24"
+    },
+    {
+        "complaint_id": "602091e7",
+        "flat_number": "i-108",
+        "name": null,
+        "phone": null,
+        "portfolio": "security",
+        "description": "wrong parking ",
+        "date": "2026-02-08 19:50:18"
+    },
+    {
+        "complaint_id": "9d8dcc87",
+        "flat_number": "h-109",
+        "name": null,
+        "phone": null,
+        "portfolio": "security",
+        "description": "Someone kept cement pages in our parking",
+        "date": "2026-02-08 19:52:21"
+    },
+    {
+        "complaint_id": "d4ed9efc",
+        "flat_number": "e-407",
+        "name": null,
+        "phone": null,
+        "portfolio": "housekeeping",
+        "description": "kindly arange for cleaning the floor",
+        "date": "2026-02-08 19:53:08"
+    },
+    {
+        "complaint_id": "5e88c5c4",
+        "flat_number": "b-006",
+        "name": null,
+        "phone": null,
+        "portfolio": "electricity",
+        "description": "short circuit",
+        "date": "2026-02-08 20:00:01"
+    },
+    {
+        "complaint_id": "04151b16",
+        "flat_number": "a-305",
+        "name": null,
+        "phone": null,
+        "portfolio": "water",
+        "description": "Water leakage",
+        "date": "2026-02-08 21:48:01"
+    },
+    {
+        "complaint_id": "d1ecb197",
+        "flat_number": "a-305",
+        "name": null,
+        "phone": null,
+        "portfolio": "water",
+        "description": "water leakage",
+        "date": "2026-02-08 21:49:21"
+    },
+    {
+        "complaint_id": "9c2af9da",
+        "flat_number": "a-305",
+        "name": null,
+        "phone": null,
+        "portfolio": "housekeeping",
+        "description": "claean the garden area",
+        "date": "2026-02-08 21:50:22"
+    },
+    {
+        "complaint_id": "f4cfb48e",
+        "flat_number": "a-305",
+        "name": null,
+        "phone": null,
+        "portfolio": "water",
+        "description": "Water Leakage",
+        "date": "2026-02-08 21:53:01"
+    },
+    {
+        "complaint_id": "7f8fcfb4",
+        "flat_number": "A-303",
+        "name": null,
+        "phone": null,
+        "portfolio": "electricity",
+        "description": "Electricity Flutuation ",
+        "date": "2026-02-08 21:55:57"
+    },
+    {
+        "complaint_id": "43f7c979",
+        "flat_number": "a-303",
+        "name": null,
+        "phone": null,
+        "portfolio": "housekeeping",
+        "description": "The floor has not been cleaned since 2 days",
+        "date": "2026-02-08 22:23:46"
+    },
+    {
+        "complaint_id": "f0dce5e5",
+        "flat_number": "A-303",
+        "name": null,
+        "phone": null,
+        "portfolio": "electricity",
+        "description": "Electricity Fluctuation since morning",
+        "date": "2026-02-08 23:36:19"
+    },
+    {
+        "complaint_id": "a462a5b2",
+        "flat_number": "a-305",
+        "name": null,
+        "phone": null,
+        "portfolio": "water",
+        "description": "water leakage",
+        "date": "2026-02-08 23:41:37"
+    },
+    {
+        "complaint_id": "0a701eb2",
+        "flat_number": "A-303",
+        "name": null,
+        "phone": null,
+        "portfolio": "electricity",
+        "description": "Poweer fluctuation",
+        "date": "2026-02-08 23:48:37"
+    },
+    {
+        "complaint_id": "ff69b8eb",
+        "flat_number": "i-009",
+        "name": null,
+        "phone": null,
+        "portfolio": "water",
+        "description": "tap leakage",
+        "date": "2026-02-09 09:42:06"
+    },
+    {
+        "complaint_id": "7645e996",
+        "flat_number": "a-303",
+        "name": null,
+        "phone": null,
+        "portfolio": "electricity",
+        "description": "Power FLuctuation ",
+        "date": "2026-02-09 13:02:02"
+    },
+    {
+        "complaint_id": "201d5f82",
+        "flat_number": "a-305",
+        "name": null,
+        "phone": null,
+        "portfolio": "water",
+        "description": "water leakage",
+        "date": "2026-02-09 22:48:58"
+    },
+    {
+        "complaint_id": "12a29121",
+        "flat_number": "A-101",
+        "name": "Ravi",
+        "phone": "9876543210",
+        "portfolio": "water",
+        "description": "No water supply",
+        "date": "2026-02-09 22:59:32"
+    },
+    {
+        "complaint_id": "d6e895eb",
+        "flat_number": "A-101",
+        "name": "Ravi",
+        "phone": "9876543210",
+        "portfolio": "water",
+        "description": "No water supply",
+        "date": "2026-02-09 23:03:45"
+    },
+    {
+        "complaint_id": "c7f33884",
+        "flat_number": "A - 303",
+        "name": null,
+        "phone": null,
+        "portfolio": "security",
+        "description": "Wrong vehicle Parked in the parking ",
+        "date": "2026-02-09 23:09:17"
+    },
+    {
+        "complaint_id": "7d9093bb",
+        "flat_number": "B - 102",
+        "name": null,
+        "phone": null,
+        "portfolio": "housekeeping",
+        "description": "The Cooridors are not cleaned since 3 days.",
+        "date": "2026-02-09 23:10:39"
+    },
+    {
+        "complaint_id": "4db9a308",
+        "flat_number": "A-304",
+        "name": null,
+        "phone": null,
+        "portfolio": "electricity",
+        "description": "Power fluctuation",
+        "date": "2026-02-09 23:11:21"
+    },
+    {
+        "complaint_id": "aaa5e8cb",
+        "flat_number": "I- 206",
+        "name": null,
+        "phone": null,
+        "portfolio": "water",
+        "description": "Tap leakage",
+        "date": "2026-02-09 23:11:57"
+    },
+    {
+        "complaint_id": "be338a98",
+        "flat_number": "A-303",
+        "name": null,
+        "phone": null,
+        "portfolio": "water",
+        "description": "Tap leakage",
+        "date": "2026-02-09 23:20:10"
+    },
+    {
+        "complaint_id": "6067a58b",
+        "flat_number": "A-303",
+        "name": "Rithik",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "leakage of tap",
+        "date": "2026-02-09 23:25:43"
+    },
+    {
+        "complaint_id": "6ce20abb",
+        "flat_number": "a-304",
+        "name": "archana",
+        "phone": "9100150130",
+        "portfolio": "housekeeping",
+        "description": "Clean teh fllor",
+        "date": "2026-02-09 23:26:41"
+    },
+    {
+        "complaint_id": "3eaaeead",
+        "flat_number": "B - 102",
+        "name": "Tribhuvan Roy",
+        "phone": "7674044201",
+        "portfolio": "electricity",
+        "description": "Power not coming in my flat",
+        "date": "2026-02-09 23:27:26"
+    },
+    {
+        "complaint_id": "69854051",
+        "flat_number": "I- 206",
+        "name": "ravikanth",
+        "phone": "7799208494",
+        "portfolio": "security",
+        "description": "worng car parked in my parking",
+        "date": "2026-02-09 23:28:14"
+    },
+    {
+        "complaint_id": "11949ee8",
+        "flat_number": "a-303",
+        "name": "lithikha",
+        "phone": "7654876546",
+        "portfolio": "security",
+        "description": "Wrong car parked in my parking",
+        "date": "2026-02-10 09:39:39"
+    },
+    {
+        "complaint_id": "f30874c9",
+        "flat_number": "A-303",
+        "name": "Rithik",
+        "phone": "8765432123",
+        "portfolio": "electricity",
+        "description": "power not coming ",
+        "date": "2026-02-10 11:54:32"
+    },
+    {
+        "complaint_id": "f93f7ba5",
+        "flat_number": "a-009",
+        "name": "sadanand",
+        "phone": "8765432123",
+        "portfolio": "water",
+        "description": "water leakage",
+        "date": "2026-02-10 12:03:04"
+    },
+    {
+        "complaint_id": "268156fd",
+        "flat_number": "A-303",
+        "name": "Rithik",
+        "phone": "9786576545",
+        "portfolio": "water",
+        "description": "tap leakage",
+        "date": "2026-02-10 13:17:25"
+    },
+    {
+        "complaint_id": "b9a2753e",
+        "flat_number": "A-303",
+        "name": "Rithik",
+        "phone": "8765432123",
+        "portfolio": "water",
+        "description": "water leakage in balcony",
+        "date": "2026-02-10 13:18:08"
+    },
+    {
+        "complaint_id": "99c76425",
+        "flat_number": "A-303",
+        "name": "Rithik",
+        "phone": "9786576545",
+        "portfolio": "electricity",
+        "description": "no power in my flat",
+        "date": "2026-02-10 14:02:29"
+    },
+    {
+        "complaint_id": "7238a7ad",
+        "flat_number": "A-303",
+        "name": "Rithik",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "not water in my flat ",
+        "date": "2026-02-10 14:15:30"
+    },
+    {
+        "complaint_id": "25454a6b",
+        "flat_number": "A-303",
+        "name": "Rithik",
+        "phone": "9666949044",
+        "portfolio": "electricity",
+        "description": "no power in flat ",
+        "date": "2026-02-10 14:16:14"
+    },
+    {
+        "complaint_id": "4a603f1b",
+        "flat_number": "A-303",
+        "name": "Rithik",
+        "phone": "9876543211",
+        "portfolio": "water",
+        "description": "water not cmg in my balcony",
+        "date": "2026-02-10 21:15:32"
+    },
+    {
+        "complaint_id": "25ae4758",
+        "flat_number": "a-305",
+        "name": "Tribhuvan Roy",
+        "phone": "9100150130",
+        "portfolio": "electricity",
+        "description": "power not cmg in my hall",
+        "date": "2026-02-10 21:16:23"
+    },
+    {
+        "complaint_id": "0d178c01",
+        "flat_number": "a-304",
+        "name": "archana b ",
+        "phone": "9100150130",
+        "portfolio": "housekeeping",
+        "description": "please clean the entrance of A blck",
+        "date": "2026-02-10 21:18:21"
+    },
+    {
+        "complaint_id": "e655a3fe",
+        "flat_number": "i-206",
+        "name": "ravi kanth",
+        "phone": "7799208494",
+        "portfolio": "security",
+        "description": "Wrong bike parked in my parking area",
+        "date": "2026-02-10 21:19:09"
+    },
+    {
+        "complaint_id": "968fd302",
+        "flat_number": "A-303",
+        "name": "Rithik",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "water issue in my flat",
+        "date": "2026-02-10 21:34:50"
+    },
+    {
+        "complaint_id": "70f7d20d",
+        "flat_number": "B - 102",
+        "name": "Tribhuvan Roy",
+        "phone": "8765432123",
+        "portfolio": "electricity",
+        "description": "no power in room",
+        "date": "2026-02-10 21:36:04"
+    },
+    {
+        "complaint_id": "290880ce",
+        "flat_number": "a-304",
+        "name": "Archana ",
+        "phone": "9100150130",
+        "portfolio": "housekeeping",
+        "description": "3rd fllor in a blcok is not cleaned from past 2 days",
+        "date": "2026-02-10 21:38:05"
+    },
+    {
+        "complaint_id": "04efa992",
+        "flat_number": "a-304",
+        "name": "Archana ",
+        "phone": "7799208494",
+        "portfolio": "housekeeping",
+        "description": "house cleaning not done their job \n",
+        "date": "2026-02-10 21:45:28"
+    },
+    {
+        "complaint_id": "dd63fba4",
+        "flat_number": "a-303",
+        "name": "roy",
+        "phone": "7799208494",
+        "portfolio": "water",
+        "description": "no water in our flat",
+        "date": "2026-02-10 21:51:43"
+    },
+    {
+        "complaint_id": "013373f0",
+        "flat_number": "A-303",
+        "name": "Tribhuvan Roy",
+        "phone": "7799208494",
+        "portfolio": "electricity",
+        "description": "no power in blck",
+        "date": "2026-02-10 21:57:18"
+    },
+    {
+        "complaint_id": "bbc57e82",
+        "flat_number": "A-303",
+        "name": "Rithik",
+        "phone": "8765432123",
+        "portfolio": "water",
+        "description": "no water cmg in a-304",
+        "date": "2026-02-10 21:59:00"
+    },
+    {
+        "complaint_id": "ffb47578",
+        "flat_number": "A-303",
+        "name": "Rithik",
+        "phone": "7799208494",
+        "portfolio": "water",
+        "description": "water not cmg in my flat",
+        "date": "2026-02-10 22:00:25"
+    },
+    {
+        "complaint_id": "3e71e7e7",
+        "flat_number": "A-303",
+        "name": "Rithik",
+        "phone": "7799208494",
+        "portfolio": "security",
+        "description": "wrong scooty parked in my slot",
+        "date": "2026-02-10 22:01:57"
+    },
+    {
+        "complaint_id": "ed86ff22",
+        "flat_number": "A-303",
+        "name": "Rithik",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "no water from mrng ",
+        "date": "2026-02-10 22:03:12"
+    },
+    {
+        "complaint_id": "f35c34cc",
+        "flat_number": "A-009",
+        "name": "vignesh",
+        "phone": "8765678987",
+        "portfolio": "security",
+        "description": "CAR PARKING IS FULL OF DUST ",
+        "date": "2026-02-11 09:20:22"
+    },
+    {
+        "complaint_id": "d0ba83ac",
+        "flat_number": "a-009",
+        "name": "naveen ",
+        "phone": "8765432134",
+        "portfolio": "water",
+        "description": "tap leakage",
+        "date": "2026-02-11 12:35:20"
+    },
+    {
+        "complaint_id": "47d0e3f8",
+        "flat_number": "a-303",
+        "name": "Rithik",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "water  not cmg in tap",
+        "date": "2026-02-11 19:11:23"
+    },
+    {
+        "complaint_id": "39b04451",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "8675849586",
+        "portfolio": "electricity",
+        "description": "no power in flat since mrng",
+        "date": "2026-02-11 19:20:19"
+    },
+    {
+        "complaint_id": "69b0fa4c",
+        "flat_number": "A-303",
+        "name": "RITHIK",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "NOMWATER IN FLAT",
+        "date": "2026-02-11 19:44:18"
+    },
+    {
+        "complaint_id": "586b2616",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": " no water here............",
+        "date": "2026-02-11 19:47:51"
+    },
+    {
+        "complaint_id": "2d9633d2",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9100150130",
+        "portfolio": "housekeeping",
+        "description": "floor not cleaned sice 3 days",
+        "date": "2026-02-11 19:52:51"
+    },
+    {
+        "complaint_id": "f4f69d09",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "7799208494",
+        "portfolio": "water",
+        "description": "no water in a block",
+        "date": "2026-02-11 19:56:49"
+    },
+    {
+        "complaint_id": "d8990f81",
+        "flat_number": "a 303",
+        "name": "ritttttttthik",
+        "phone": "9100150130",
+        "portfolio": "water",
+        "description": "no water from mrngn ",
+        "date": "2026-02-11 20:09:40"
+    },
+    {
+        "complaint_id": "eefb5cda",
+        "flat_number": "a 303",
+        "name": "rihtikkkkkkk",
+        "phone": "9998887776",
+        "portfolio": "water",
+        "description": "no water in vista",
+        "date": "2026-02-11 20:12:40"
+    },
+    {
+        "complaint_id": "fb609796",
+        "flat_number": "a - 304",
+        "name": "archana",
+        "phone": "9998888333",
+        "portfolio": "housekeeping",
+        "description": "not cleaned floorrrrrrrrrrrr",
+        "date": "2026-02-11 20:13:25"
+    },
+    {
+        "complaint_id": "71f46a1f",
+        "flat_number": "a 303",
+        "name": "rithikkkkkkkkkk",
+        "phone": "9100120120",
+        "portfolio": "security",
+        "description": "wrong car parked in my parking area",
+        "date": "2026-02-11 20:15:03"
+    },
+    {
+        "complaint_id": "32608900",
+        "flat_number": "a-000",
+        "name": "rithillll",
+        "phone": "9876543122",
+        "portfolio": "water",
+        "description": "no water reyyyyyyyyyyyyyyyyyyy",
+        "date": "2026-02-11 22:51:14"
+    },
+    {
+        "complaint_id": "99714dad",
+        "flat_number": "A-303",
+        "name": "RIHTIK",
+        "phone": "9666490444",
+        "portfolio": "water",
+        "description": "NO WATERRRRRRRRRRRRRRRRRRR",
+        "date": "2026-02-11 22:53:13"
+    },
+    {
+        "complaint_id": "08aa428b",
+        "flat_number": "a-303",
+        "name": "rithikkkkkkkkkkkkkkkkkkkkkkkkk",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "nomwaterrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",
+        "date": "2026-02-11 23:11:27"
+    },
+    {
+        "complaint_id": "9ff21163",
+        "flat_number": "a-303",
+        "name": "rithikkkkkkkkkkkkkkkkkkkkkkkkk",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "nomwaterrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",
+        "date": "2026-02-11 23:13:32"
+    },
+    {
+        "complaint_id": "07758713",
+        "flat_number": "a-303",
+        "name": "rithkkkkkkkkkk",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "water not cmg ",
+        "date": "2026-02-11 23:20:16"
+    },
+    {
+        "complaint_id": "fb16c565",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9666949044",
+        "portfolio": "electricity",
+        "description": "no water cmgg",
+        "date": "2026-02-13 08:59:36"
+    },
+    {
+        "complaint_id": "b5a69959",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9666949044",
+        "portfolio": "electricity",
+        "description": "no power on my flat",
+        "date": "2026-02-13 09:00:12"
+    },
+    {
+        "complaint_id": "450548f6",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9666949044",
+        "portfolio": "electricity",
+        "description": "no plwerrrrrrrrrrrrrrrrrrrrrrr",
+        "date": "2026-02-13 09:51:16"
+    },
+    {
+        "complaint_id": "54aca486",
+        "flat_number": "A-303",
+        "name": "RITHIK",
+        "phone": "9666949044",
+        "portfolio": "electricity",
+        "description": "NO [OWERRRRRRRRRRRRRRRRRR",
+        "date": "2026-02-13 09:52:04"
+    },
+    {
+        "complaint_id": "ee2e1d65",
+        "flat_number": "A-303",
+        "name": "Rithik",
+        "phone": "9666949044",
+        "portfolio": "electricity",
+        "description": "power not comingggg",
+        "date": "2026-02-13 09:57:20"
+    },
+    {
+        "complaint_id": "636673d5",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "no water in my flat",
+        "date": "2026-02-13 10:24:21"
+    },
+    {
+        "complaint_id": "af29d4bd",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9666949044",
+        "portfolio": "electricity",
+        "description": "no wlwctricity in my flat ",
+        "date": "2026-02-13 10:27:32"
+    },
+    {
+        "complaint_id": "64a5082d",
+        "flat_number": "a-303",
+        "name": "rithikl",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "no powerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",
+        "date": "2026-02-13 10:34:54"
+    },
+    {
+        "complaint_id": "3b41c90d",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9666949044",
+        "portfolio": "electricity",
+        "description": "no current in my flattttttttttttttttttttttttttttttttttttttt",
+        "date": "2026-02-13 10:36:25"
+    },
+    {
+        "complaint_id": "3aa0998d",
+        "flat_number": "b-102",
+        "name": "rithik",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "no water here!!!!!!!!!!!!!!!!!",
+        "date": "2026-02-13 10:38:15"
+    },
+    {
+        "complaint_id": "53f6916a",
+        "flat_number": "a-102",
+        "name": "rithil",
+        "phone": "9666949044",
+        "portfolio": "electricity",
+        "description": "no power here!!!!!!!!!!!!!!!!!!!",
+        "date": "2026-02-13 10:39:08"
+    },
+    {
+        "complaint_id": "3e80c739",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9666949044",
+        "portfolio": "housekeeping",
+        "description": "floor not cleaned \n",
+        "date": "2026-02-13 10:58:16"
+    },
+    {
+        "complaint_id": "59238327",
+        "flat_number": "a-303",
+        "name": "Rithik",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "no water in my flat since mrng!",
+        "date": "2026-02-13 11:13:30"
+    },
+    {
+        "complaint_id": "26f93bf8",
+        "flat_number": "a-102",
+        "name": "Rithik",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "no wsterrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr\n",
+        "date": "2026-02-13 11:27:05"
+    },
+    {
+        "complaint_id": "cb0b97ea",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9666949044",
+        "portfolio": "electricity",
+        "description": "no power in my home",
+        "date": "2026-02-13 11:29:25"
+    },
+    {
+        "complaint_id": "0bd4ef2a",
+        "flat_number": "a-304",
+        "name": "archana",
+        "phone": "9100150130",
+        "portfolio": "housekeeping",
+        "description": "plezse arrange for cleaning my flat ",
+        "date": "2026-02-13 11:34:40"
+    },
+    {
+        "complaint_id": "449e574b",
+        "flat_number": "a-001",
+        "name": "archu",
+        "phone": "9100150130",
+        "portfolio": "housekeeping",
+        "description": "floor not lceaned",
+        "date": "2026-02-13 11:35:34"
+    },
+    {
+        "complaint_id": "428d9bbc",
+        "flat_number": "A-101",
+        "name": "Rithik",
+        "phone": "7799208494",
+        "portfolio": "security",
+        "description": "PARKING NOT CLENAED",
+        "date": "2026-02-13 11:37:41"
+    },
+    {
+        "complaint_id": "7896710d",
+        "flat_number": "A-002",
+        "name": "ROY",
+        "phone": "7700669955",
+        "portfolio": "security",
+        "description": "ALLOW THE GUEST VEIVLE INSEIDE",
+        "date": "2026-02-13 11:39:03"
+    },
+    {
+        "complaint_id": "137cb041",
+        "flat_number": "A-303",
+        "name": "rithik roy",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "NO WATER EHRE!!!!!!!!!!!!!!",
+        "date": "2026-02-13 11:51:48"
+    },
+    {
+        "complaint_id": "8334ca3f",
+        "flat_number": "B-006",
+        "name": "TRIBHUVAN ROY",
+        "phone": "7674044201",
+        "portfolio": "electricity",
+        "description": "NO ELECTRICITY IN MY FLAT ",
+        "date": "2026-02-13 11:52:51"
+    },
+    {
+        "complaint_id": "13a68449",
+        "flat_number": "B-006",
+        "name": "TRIBHUVAN ROY",
+        "phone": "7674044201",
+        "portfolio": "electricity",
+        "description": "NO POWER IN FLAT!!!!!!!!!!!!!!",
+        "date": "2026-02-13 11:53:31"
+    },
+    {
+        "complaint_id": "b8010ac8",
+        "flat_number": "A-304",
+        "name": "ARCHANA BANDA ",
+        "phone": "9100150130",
+        "portfolio": "housekeeping",
+        "description": "PLEASE ARRNAGE SOMEONE TO CLEAN THE FLOOR",
+        "date": "2026-02-13 11:54:03"
+    },
+    {
+        "complaint_id": "1381c3ad",
+        "flat_number": "I-206",
+        "name": "T V RAVIKANTH",
+        "phone": "7799208494",
+        "portfolio": "security",
+        "description": "WRONG CAR PRAKED IN MY PARKING..........",
+        "date": "2026-02-13 11:54:35"
+    },
+    {
+        "complaint_id": "a36f3653",
+        "flat_number": "A-303",
+        "name": "RITHILK",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "NO WATER IN M FLTTTTTTTTTTTTTTTTTT\n",
+        "date": "2026-02-13 11:57:25"
+    },
+    {
+        "complaint_id": "6ba16850",
+        "flat_number": "A-303",
+        "name": "RITHIL",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": " O WATER EHERE",
+        "date": "2026-02-13 11:57:56"
+    },
+    {
+        "complaint_id": "797749a2",
+        "flat_number": "A-303",
+        "name": "RUTHIL",
+        "phone": "9876543210",
+        "portfolio": "water",
+        "description": "NOOOOOOOOOOOOOOOOOO",
+        "date": "2026-02-13 --- 11:59:17"
+    },
+    {
+        "complaint_id": "2310c05a",
+        "flat_number": "A-303",
+        "name": "RITHIK",
+        "phone": "9876543211",
+        "portfolio": "water",
+        "description": "NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+        "date": "2026-02-13 --- 11:59:40"
+    },
+    {
+        "complaint_id": "43a3d108",
+        "flat_number": "i-306",
+        "name": "rithik",
+        "phone": "9666949044",
+        "portfolio": "security",
+        "description": "no parking!!!!!!!",
+        "date": "2026-02-16 --- 01:14:21"
+    },
+    {
+        "complaint_id": "50212ebd",
+        "flat_number": "a-303",
+        "name": "rithil",
+        "phone": "9666949044",
+        "portfolio": "housekeeping",
+        "description": "floor not ckeaned ",
+        "date": "2026-02-16 --- 01:15:22"
+    },
+    {
+        "complaint_id": "6c571ce0",
+        "flat_number": "a-110",
+        "name": "rithik",
+        "phone": "7733882299",
+        "portfolio": "electricity",
+        "description": "no power !!!!!!",
+        "date": "2026-02-16 --- 01:16:40"
+    },
+    {
+        "complaint_id": "5b58e36a",
+        "flat_number": "a-202",
+        "name": "rithikq\\",
+        "phone": "9876543211",
+        "portfolio": "electricity",
+        "description": "no power!!!!!!!",
+        "date": "2026-02-16 --- 01:18:38"
+    },
+    {
+        "complaint_id": "8cf8b5e6",
+        "flat_number": "a-303",
+        "name": "rithikl",
+        "phone": "7799208494",
+        "portfolio": "water",
+        "description": "no water here!!!!!!!",
+        "date": "2026-02-16 --- 01:19:37"
+    },
+    {
+        "complaint_id": "642623a6",
+        "flat_number": "A-202",
+        "name": "rihti",
+        "phone": "9993332221",
+        "portfolio": "electricity",
+        "description": "NO PLWEWR !!!!!!!!!",
+        "date": "2026-02-16 --- 01:20:22"
+    },
+    {
+        "complaint_id": "47f6d0c6",
+        "flat_number": "A-303",
+        "name": "rithik roy",
+        "phone": "9876543212",
+        "portfolio": "electricity",
+        "description": "NO POWER !!!!!!1\n",
+        "date": "2026-02-16 --- 01:22:05"
+    },
+    {
+        "complaint_id": "03dbb966",
+        "flat_number": "A-030",
+        "name": "RITHIK",
+        "phone": "9991118282",
+        "portfolio": "electricity",
+        "description": "NO POWERRRRR!",
+        "date": "2026-02-16 --- 01:24:32"
+    },
+    {
+        "complaint_id": "37cf722b",
+        "flat_number": "a 303",
+        "name": "Rithik",
+        "phone": "9100150130",
+        "portfolio": "water",
+        "description": "NO WATER!!!!!!!!!!",
+        "date": "2026-02-16 --- 01:26:22"
+    },
+    {
+        "complaint_id": "b5aae66f",
+        "flat_number": "A-303",
+        "name": "RITHIK",
+        "phone": "9876543211",
+        "portfolio": "water",
+        "description": "NO WATER !!!!!!!!!!",
+        "date": "2026-02-16 --- 01:27:38"
+    },
+    {
+        "complaint_id": "6785e78d",
+        "flat_number": "A-330",
+        "name": "RITHIK",
+        "phone": "9998887171",
+        "portfolio": "electricity",
+        "description": "NO POWER !!!!!!!!!!!",
+        "date": "2026-02-16 --- 01:28:30"
+    },
+    {
+        "complaint_id": "02e0bc11",
+        "flat_number": "A-303",
+        "name": "RITHIL",
+        "phone": "9991119191",
+        "portfolio": "security",
+        "description": "PARKING FILLED",
+        "date": "2026-02-16 --- 01:29:14"
+    },
+    {
+        "complaint_id": "1cb77b38",
+        "flat_number": "A-303",
+        "name": "RIHTIK",
+        "phone": "9992229292",
+        "portfolio": "security",
+        "description": "PARKING FILLED ",
+        "date": "2026-02-16 --- 01:29:45"
+    },
+    {
+        "complaint_id": "348c8d25",
+        "flat_number": "A-303",
+        "name": "RITHIKKKK",
+        "phone": "8883334747",
+        "portfolio": "water",
+        "description": "NO WAYER!!!!!",
+        "date": "2026-02-16 --- 01:30:30"
+    },
+    {
+        "complaint_id": "2eb9c13a",
+        "flat_number": "A-303",
+        "name": "RIHTIKKKKKKKKK",
+        "phone": "7778889898",
+        "portfolio": "water",
+        "description": "NO WATER IN MY FLST!",
+        "date": "2026-02-16 --- 01:31:31"
+    },
+    {
+        "complaint_id": "f162c1ae",
+        "flat_number": "A-304",
+        "name": "ARCHANA",
+        "phone": "9100150130",
+        "portfolio": "housekeeping",
+        "description": "FLOOR  NOT CLENAED",
+        "date": "2026-02-16 --- 01:33:50"
+    },
+    {
+        "complaint_id": "6eb5a2f6",
+        "flat_number": "A-303",
+        "name": "ARCHANA",
+        "phone": "9100150130",
+        "portfolio": "housekeeping",
+        "description": "NOT LWAN FLOOR",
+        "date": "2026-02-16 --- 01:34:33"
+    },
+    {
+        "complaint_id": "5eed8d1a",
+        "flat_number": "a-303",
+        "name": "rithik ",
+        "phone": "9100150130",
+        "portfolio": "water",
+        "description": "water not cmg!!!!!!!!",
+        "date": "2026-02-16 --- 09:20:45"
+    },
+    {
+        "complaint_id": "abe9e7b5",
+        "flat_number": "b-102",
+        "name": "rithik",
+        "phone": "9666949044",
+        "portfolio": "electricity",
+        "description": "power not cmg!!!!!!",
+        "date": "2026-02-16 --- 09:21:25"
+    },
+    {
+        "complaint_id": "8d16619e",
+        "flat_number": "a=304",
+        "name": "rithik",
+        "phone": "9998887776",
+        "portfolio": "housekeeping",
+        "description": "floor not cleaned",
+        "date": "2026-02-16 --- 09:21:58"
+    },
+    {
+        "complaint_id": "b4dedc59",
+        "flat_number": "i-206",
+        "name": "rithik",
+        "phone": "7799208494",
+        "portfolio": "security",
+        "description": "misusING of parking for cooking",
+        "date": "2026-02-16 --- 09:23:11"
+    },
+    {
+        "complaint_id": "2d200b10",
+        "flat_number": "A-009",
+        "name": "RITHIK",
+        "phone": "9876543212",
+        "portfolio": "electricity",
+        "description": "power not cmg in my flat",
+        "date": "2026-02-16 --- 09:24:56"
+    },
+    {
+        "complaint_id": "29027afd",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9188128129",
+        "portfolio": "electricity",
+        "description": "NO POWER !!!!!!!!!!",
+        "date": "2026-02-16 --- 10:03:01"
+    },
+    {
+        "complaint_id": "a289b4f1",
+        "flat_number": "a-009",
+        "name": "venu",
+        "phone": "9876543211",
+        "portfolio": "water",
+        "description": "no water!!!!",
+        "date": "2026-02-16 --- 10:14:05"
+    },
+    {
+        "complaint_id": "a79df9ab",
+        "flat_number": "a-303",
+        "name": "dattatreya",
+        "phone": "7674044201",
+        "portfolio": "water",
+        "description": "no water!!!!!!!!!!!!",
+        "date": "2026-02-17 --- 19:40:13"
+    },
+    {
+        "complaint_id": "ae45dfda",
+        "flat_number": "a-303",
+        "name": "datta",
+        "phone": "9876543211",
+        "portfolio": "water",
+        "description": "nowater !!!!!!",
+        "date": "2026-02-17 --- 19:41:49"
+    },
+    {
+        "complaint_id": "bdf4756d",
+        "flat_number": "b-106",
+        "name": "datta",
+        "phone": "8765432191",
+        "portfolio": "electricity",
+        "description": "no power!!!!!!!!!",
+        "date": "2026-02-17 --- 19:43:01"
+    },
+    {
+        "complaint_id": "bda343da",
+        "flat_number": "a-304",
+        "name": "datta",
+        "phone": "7654321891",
+        "portfolio": "housekeeping",
+        "description": "no floor cleaned",
+        "date": "2026-02-17 --- 19:43:50"
+    },
+    {
+        "complaint_id": "73a380c5",
+        "flat_number": "i-206",
+        "name": "datta",
+        "phone": "9876543212",
+        "portfolio": "security",
+        "description": "no parking slot for me ",
+        "date": "2026-02-17 --- 19:44:43"
+    },
+    {
+        "complaint_id": "9269d3bf",
+        "flat_number": "a-303",
+        "name": "datta ",
+        "phone": "7674044201",
+        "portfolio": "electricity",
+        "description": "NO POWER !!!!!!!!!!!",
+        "date": "2026-02-17 --- 19:47:24"
+    },
+    {
+        "complaint_id": "cfabb350",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "no water in my house!",
+        "date": "2026-02-17 --- 19:52:46"
+    },
+    {
+        "complaint_id": "c7400c81",
+        "flat_number": "b-102",
+        "name": "tribhuvan",
+        "phone": "7674044201",
+        "portfolio": "electricity",
+        "description": "no power$$$$$$$$",
+        "date": "2026-02-17 --- 19:53:11"
+    },
+    {
+        "complaint_id": "084944f5",
+        "flat_number": "a-304",
+        "name": "archana",
+        "phone": "9100150130",
+        "portfolio": "housekeeping",
+        "description": "floor not cleaned!",
+        "date": "2026-02-17 --- 19:53:34"
+    },
+    {
+        "complaint_id": "542b8e6c",
+        "flat_number": "i-206",
+        "name": "ravikanth",
+        "phone": "7799208494",
+        "portfolio": "security",
+        "description": "my parking slot in not lcenaed after event ",
+        "date": "2026-02-17 --- 19:53:56"
+    },
+    {
+        "complaint_id": "6462d4a9",
+        "flat_number": "a-303",
+        "name": "Rithik",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "mo water in flat$$$$$$$$$$$$$$$",
+        "date": "2026-02-27 --- 11:10:14"
+    },
+    {
+        "complaint_id": "d97f7ad4",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "7674044201",
+        "portfolio": "electricity",
+        "description": "no power here 1",
+        "date": "2026-02-27 --- 11:12:33"
+    },
+    {
+        "complaint_id": "4914d2f1",
+        "flat_number": "a-303",
+        "name": "dattatreya",
+        "phone": "7674044201",
+        "portfolio": "water",
+        "description": "no water in flatQ",
+        "date": "2026-02-27 --- 11:19:29"
+    },
+    {
+        "complaint_id": "ef7dfcac",
+        "flat_number": "a-303",
+        "name": "dattatreya",
+        "phone": "7674044201",
+        "portfolio": "electricity",
+        "description": "no power in flst ",
+        "date": "2026-02-27 --- 11:20:15"
+    },
+    {
+        "complaint_id": "74630dd0",
+        "flat_number": "a-303",
+        "name": "dattetreya",
+        "phone": "7674044201",
+        "portfolio": "housekeeping",
+        "description": "no floor cleaned ",
+        "date": "2026-02-27 --- 11:21:39"
+    },
+    {
+        "complaint_id": "d67a50a1",
+        "flat_number": "a-303",
+        "name": "Rithik",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "no water^^^^^^^^^^^^^^^",
+        "date": "2026-02-27 --- 16:49:38"
+    },
+    {
+        "complaint_id": "9e413a3c",
+        "flat_number": "a-304",
+        "name": "Dattatreya",
+        "phone": "7674044201",
+        "portfolio": "electricity",
+        "description": "no power in flat@@@@@@@",
+        "date": "2026-02-27 --- 16:50:37"
+    },
+    {
+        "complaint_id": "01b4d026",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "no water in my block itself!",
+        "date": "2026-02-27 --- 17:08:29"
+    },
+    {
+        "complaint_id": "feda1a69",
+        "flat_number": "a-304",
+        "name": "dattatreya ",
+        "phone": "7674044201",
+        "portfolio": "electricity",
+        "description": "no current here!",
+        "date": "2026-02-27 --- 17:09:47"
+    },
+    {
+        "complaint_id": "28aab8ba",
+        "flat_number": "a-303",
+        "name": "dattatreya ",
+        "phone": "9100150130",
+        "portfolio": "housekeeping",
+        "description": "surroundings not cleaned",
+        "date": "2026-02-27 --- 17:10:41"
+    },
+    {
+        "complaint_id": "30b89408",
+        "flat_number": "i-206",
+        "name": "dattatreya",
+        "phone": "7799208494",
+        "portfolio": "security",
+        "description": "no parking is removed ",
+        "date": "2026-02-27 --- 17:13:15"
+    },
+    {
+        "complaint_id": "a6f32f72",
+        "flat_number": "a-303",
+        "name": "dattatreya",
+        "phone": "9876543213",
+        "portfolio": "security",
+        "description": "no parking!",
+        "date": "2026-02-27 --- 17:17:58"
+    },
+    {
+        "complaint_id": "f5369603",
+        "flat_number": "a-303",
+        "name": "Rithik ",
+        "phone": "9666949044",
+        "portfolio": "water",
+        "description": "no water in my flat!",
+        "date": "2026-02-27 --- 20:37:28"
+    },
+    {
+        "complaint_id": "b3ede75a",
+        "flat_number": "a-303",
+        "name": "Dattatreya ",
+        "phone": "7674044201",
+        "portfolio": "electricity",
+        "description": "no current in my flat!",
+        "date": "2026-02-27 --- 20:38:30"
+    },
+    {
+        "complaint_id": "ecba1992",
+        "flat_number": "a-303",
+        "name": "Rithik",
+        "phone": "9100150130",
+        "portfolio": "housekeeping",
+        "description": "the floor is not cleaned from 2 days, arrnge someone immeditaely",
+        "date": "2026-02-27 --- 20:39:14"
+    },
+    {
+        "complaint_id": "b9853b06",
+        "flat_number": "a-303",
+        "name": "Dattatreya",
+        "phone": "7799208494",
+        "portfolio": "security",
+        "description": "someone parked vehicle in my parking..............",
+        "date": "2026-02-27 --- 20:41:07"
+    },
+    {
+        "complaint_id": "19e25a33",
+        "flat_number": "A-303",
+        "name": "Dattatreya",
+        "phone": "7674044201",
+        "portfolio": "water",
+        "description": "no water in flat!!!!!!!",
+        "date": "2026-03-01 --- 20:09:50"
+    },
+    {
+        "complaint_id": "58892d1d",
+        "flat_number": "B-102",
+        "name": "Rithik",
+        "phone": "9666949044",
+        "portfolio": "electricity",
+        "description": "No power in my FLat!",
+        "date": "2026-03-01 --- 20:10:44"
+    },
+    {
+        "complaint_id": "715f792e",
+        "flat_number": "A-304",
+        "name": "Archana",
+        "phone": "9100150130",
+        "portfolio": "housekeeping",
+        "description": "The floor is not cleaned!",
+        "date": "2026-03-01 --- 20:11:36"
+    },
+    {
+        "complaint_id": "6e3f2731",
+        "flat_number": "I-206",
+        "name": "T V Ravikanth",
+        "phone": "7799208494",
+        "portfolio": "security",
+        "description": "the parking is no cleaned",
+        "date": "2026-03-01 --- 20:12:15"
+    },
+    {
+        "complaint_id": "6371aa24",
+        "flat_number": "a-303",
+        "name": "Rtihik",
+        "phone": "9876543212",
+        "portfolio": "water",
+        "description": "no water in flsat!",
+        "date": "2026-03-02 --- 21:33:54"
+    },
+    {
+        "complaint_id": "2a4e2d5d",
+        "flat_number": "b-102",
+        "name": "Tribhuvan ",
+        "phone": "7654321891",
+        "portfolio": "electricity",
+        "description": "no curent ",
+        "date": "2026-03-02 --- 21:36:03"
+    },
+    {
+        "complaint_id": "e66345eb",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9876543212",
+        "portfolio": "electricity",
+        "description": "no current in playgroundQ\n",
+        "date": "2026-03-04 --- 10:11:29"
+    },
+    {
+        "complaint_id": "15f33826",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "9666939044",
+        "portfolio": "electricity",
+        "description": "no poweeerr in flat since mrngg......",
+        "date": "2026-03-04 --- 12:45:01"
+    },
+    {
+        "complaint_id": "f52c35f8",
+        "flat_number": "a-303",
+        "name": "rithik",
+        "phone": "7654321891",
+        "portfolio": "electricity",
+        "description": "545555555555555555555555555555",
+        "date": "2026-03-04 --- 12:46:15"
+    },
+    {
+        "complaint_id": "29257e88",
+        "flat_number": "a-303",
+        "name": "datta ",
+        "phone": "9666939044",
+        "portfolio": "electricity",
+        "description": "11111111111111111111111111111111",
+        "date": "2026-03-04 --- 12:46:50"
+    }
+]
