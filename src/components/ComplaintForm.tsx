@@ -57,7 +57,7 @@ export function ComplaintForm({ onSuccess }: ComplaintFormProps) {
         description: data.description,
       };
 
-      const response = await fetch("http://127.0.0.1:5000/submit-complaint", {
+      const response = await fetch("/submit-complaint", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),
