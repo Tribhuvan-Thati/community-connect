@@ -18,7 +18,7 @@ from openpyxl import Workbook, load_workbook
 
 # ✅ Serve React build folder
 app = Flask(__name__, static_folder="../dist", static_url_path="/")
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "*"}})
 
 DATA_FILE = "complaints.json"
 EXCEL_FILE = "complaints.xlsx"
@@ -204,3 +204,4 @@ def serve_static(path):
 # -------- Run Server (Local Only) --------
 if __name__ == "__main__":
     app.run(debug=True)
+
