@@ -1,4 +1,5 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { z } from "zod";
@@ -25,7 +26,7 @@ const categories = [
 
 const complaintSchema = z.object({
   resident_name: z.string().min(2, "Enter valid name"),
-  flat_number: z.string().min(1, "Flat number required"),
+  flat_number: z.string(),
   phone_number: z.string().regex(/^[6-9]\d{9}$/, "Enter valid Indian mobile"),
   category: z.enum(["water", "electricity", "housekeeping", "security"]),
   description: z.string().min(10, "Minimum 10 characters"),
@@ -40,10 +41,22 @@ interface ComplaintFormProps {
 export function ComplaintForm({ onSuccess }: ComplaintFormProps) {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const { toast } = useToast();
+  const navigate = useNavigate();
 
   const form = useForm<ComplaintFormData>({
     resolver: zodResolver(complaintSchema),
   });
+
+  // ✅ Check Login & Auto Fill Flat
+  useEffect(() => {
+    const loggedFlat = localStorage.getItem("loggedInFlat");
+
+    if (!loggedFlat) {
+      navigate("/");
+    } else {
+      form.setValue("flat_number", loggedFlat);
+    }
+  }, [navigate, form]);
 
   const onSubmit = async (data: ComplaintFormData) => {
     setIsSubmitting(true);
@@ -57,7 +70,7 @@ export function ComplaintForm({ onSuccess }: ComplaintFormProps) {
         description: data.description,
       };
 
-      const response = await fetch("/submit-complaint", {
+      const response = await fetch("http://127.0.0.1:5000/submit-complaint", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),
@@ -75,7 +88,9 @@ export function ComplaintForm({ onSuccess }: ComplaintFormProps) {
       });
 
       onSuccess(result.complaint_id);
-      form.reset();
+      form.reset({
+        flat_number: localStorage.getItem("loggedInFlat") || "",
+      });
 
     } catch (error) {
       console.error(error);
@@ -139,7 +154,7 @@ export function ComplaintForm({ onSuccess }: ComplaintFormProps) {
           )}
         />
 
-        {/* Flat Number */}
+        {/* Flat Number (AUTO FILLED & DISABLED) */}
         <FormField
           control={form.control}
           name="flat_number"
@@ -147,7 +162,7 @@ export function ComplaintForm({ onSuccess }: ComplaintFormProps) {
             <FormItem>
               <FormLabel>Flat Number</FormLabel>
               <FormControl>
-                <Input {...field} placeholder="A-101" />
+                <Input {...field} disabled />
               </FormControl>
               <FormMessage />
             </FormItem>
