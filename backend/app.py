@@ -1,13 +1,14 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 from flask_cors import CORS
 import json
 import uuid
 from datetime import datetime
 import os
-from zoneinfo import ZoneInfo
 
 from supabase import create_client
 from dotenv import load_dotenv
+from zoneinfo import ZoneInfo
+
 # ✅ SendGrid Imports
 from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail
@@ -15,16 +16,15 @@ from sendgrid.helpers.mail import Mail
 # ✅ Excel Imports
 from openpyxl import Workbook, load_workbook
 
-app = Flask(__name__)
+# ✅ Serve React build folder
+app = Flask(__name__, static_folder="../dist", static_url_path="/")
 CORS(app)
 
 DATA_FILE = "complaints.json"
 EXCEL_FILE = "complaints.xlsx"
 
-# ✅ Load .env
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-ENV_PATH = os.path.join(BASE_DIR, ".env")
-load_dotenv(dotenv_path=ENV_PATH)
+# ✅ Load environment variables (works locally + Render)
+load_dotenv()
 
 # -------- Supabase Config --------
 SUPABASE_URL = os.getenv("SUPABASE_URL")
@@ -106,7 +106,7 @@ def send_email(complaint):
         return
 
     message = Mail(
-        from_email="tribhuvanroy2006@gmail.com",  # Must be verified in SendGrid
+        from_email="tribhuvanroy2006@gmail.com",
         to_emails=receiver,
         subject=f"New {complaint['portfolio'].title()} Complaint",
         html_content=f"""
@@ -150,14 +150,6 @@ def save_to_supabase(complaint):
     except Exception as e:
         print("❌ Supabase insert error:", e)
 
-# -------- Home Route --------
-@app.route("/", methods=["GET"])
-def home():
-    return jsonify({
-        "status": "OK",
-        "message": "Community Connect Backend is running"
-    })
-
 # -------- Submit Complaint API --------
 @app.route("/submit-complaint", methods=["POST"])
 def submit_complaint():
@@ -166,7 +158,6 @@ def submit_complaint():
     if not data:
         return jsonify({"error": "No data received"}), 400
 
-    # ✅ Required Field Validation
     required_fields = ["flat_number", "resident_name", "phone_number", "portfolio", "description"]
 
     for field in required_fields:
@@ -185,18 +176,12 @@ def submit_complaint():
         "date": datetime.now(ZoneInfo("Asia/Kolkata")).strftime("%Y-%m-%d --- %H:%M:%S")
     }
 
-    # Save JSON
     complaints = load_complaints()
     complaints.append(complaint)
     save_complaints(complaints)
 
-    # Save Supabase
     save_to_supabase(complaint)
-
-    # Save Excel
     save_to_excel(complaint)
-
-    # Send Email
     send_email(complaint)
 
     return jsonify({
@@ -204,7 +189,18 @@ def submit_complaint():
         "complaint_id": complaint_id
     }), 200
 
-# -------- Run Server --------
+# -------- Serve React Frontend --------
+@app.route("/")
+def serve_frontend():
+    return send_from_directory(app.static_folder, "index.html")
+
+@app.route("/<path:path>")
+def serve_static(path):
+    full_path = os.path.join(app.static_folder, path)
+    if os.path.exists(full_path):
+        return send_from_directory(app.static_folder, path)
+    return send_from_directory(app.static_folder, "index.html")
+
+# -------- Run Server (Local Only) --------
 if __name__ == "__main__":
     app.run(debug=True)
-
